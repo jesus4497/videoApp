@@ -1,0 +1,18 @@
+.carousel{
+    width: 100%;
+    display: flex;
+    padding: 20px;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#carousel__container{
+    white-space: nowrap;
+    margin: 70px 0px;
+    padding-bottom: 10px;
+    display:flex;
+    position: relative;
+    
+}
